@@ -1,0 +1,1 @@
+This is a template for my game engine which I can pull from if I want to start a new game or such. I will also add updates to this when I find new features I find fundamental to having in my game engine.
